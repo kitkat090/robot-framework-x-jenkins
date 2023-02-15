@@ -4,4 +4,3 @@ Test jenkins
 
 Test Fail
     Log To Console  66666
-    Fail
