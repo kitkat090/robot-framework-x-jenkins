@@ -10,3 +10,4 @@ Test jenkins 3
 
 Test Fail
     Log To Console  66666
+    Fail
