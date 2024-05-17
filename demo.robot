@@ -1,3 +1,10 @@
+*** Settings ***
+Library           SeleniumLibrary
+Library           Collections
+Library           String
+Library           OperatingSystem
+Library           AllureLibrary
+
 *** Test Cases ***
 Test jenkins
     Log To Console  55555
